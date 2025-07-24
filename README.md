@@ -98,7 +98,8 @@ The agent is configured to run automatically every hour via GitHub Actions. To e
 1. Fork this repository
 2. Go to Settings → Secrets and variables → Actions
 3. Add a new repository secret named `OPENAI_API_KEY` with your OpenAI API key
-4. The agent will now run automatically every hour
+4. Optionally add a new repository variable named `MODEL` and set it to e.g., `o3` (default is o3 if not set).
+5. The agent runs at 9am, 11am, 1pm, and 3pm EDT.
 
 You can also trigger a manual run from the Actions tab in your GitHub repository.
 
