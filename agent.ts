@@ -35,7 +35,6 @@ const portfolioSchema = z.object({
 
 const webSearch = async (query: string): Promise<string> => {
   const response = await client.responses.create({
-    model: process.env.MODEL,
     input: `Please use web search to answer this query from the user and respond with a short summary in markdown of what you found:\n\n${query}`,
     tools: [{ type: "web_search_preview" }],
   });
@@ -44,7 +43,6 @@ const webSearch = async (query: string): Promise<string> => {
 
 const getStockPrice = async (ticker: string): Promise<number> => {
   const response = await client.responses.parse({
-    model: process.env.MODEL,
     input: `What is the current price of the stock ticker $${ticker}? Please use web search to get the latest price and then answer in short.`,
     tools: [{ type: "web_search_preview" }],
     text: { format: zodTextFormat(z.object({ price: z.number() }), "price") },
@@ -381,6 +379,7 @@ ${
 
 const agent = new Agent({
   name: "Assistant",
+  model: process.env.MODEL,
   instructions: await readFile("system-prompt.md", "utf-8"),
   tools: [
     thinkTool,
