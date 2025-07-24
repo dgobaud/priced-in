@@ -4,18 +4,20 @@ An autonomous AI-powered stock trading agent that executes trades on GitHub Acti
 
 <!-- auto start -->
 
-## 💰 Portfolio value: $1,000.00** (0.00% CAGR)
+## 💰 Portfolio value: $999.80** (N/A% CAGR)
 
 ### 📊 Holdings
 
 | Asset | Shares | Value |
 |-------|--------|-------|
-| Cash | - | $1000.00 |
-
+| Cash | - | $313.51 |
+| GOOGL | 2 | $384.00 |
+| TSLA | 1 | $302.29 |
 
 ### 📈 Recent trades
 
-- No trades yet
+- **July 24, 2025 at 5:04:02 PM**: BUY 1 TSLA @ $302.49/share ($302.49)
+- **July 24, 2025 at 5:04:00 PM**: BUY 2 GOOGL @ $192/share ($384.00)
 
 <!-- auto end -->
 
