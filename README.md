@@ -4,18 +4,24 @@ An autonomous AI-powered stock trading agent that executes trades on GitHub Acti
 
 <!-- auto start -->
 
-## 💰 Portfolio value: $313.51** (0.00% CAGR)
+## 💰 Portfolio value: $10,000.00** (N/A% CAGR)
 
 ### 📊 Holdings
 
 | Asset | Shares | Value |
 |-------|--------|-------|
-| Cash | - | $313.51 |
-
+| Cash | - | $76.46 |
+| QUBT | 176 | $2990.24 |
+| GOOGL | 10 | $1934.10 |
+| OKLO | 40 | $3000.00 |
+| SMR | 40 | $1999.20 |
 
 ### 📈 Recent trades
 
-- No trades yet
+- **July 24, 2025 at 6:22:24 PM**: BUY 40 SMR @ $49.98/share ($1999.20)
+- **July 24, 2025 at 6:22:24 PM**: BUY 40 OKLO @ $75/share ($3000.00)
+- **July 24, 2025 at 6:22:23 PM**: BUY 10 GOOGL @ $193.41/share ($1934.10)
+- **July 24, 2025 at 6:22:22 PM**: BUY 176 QUBT @ $16.99/share ($2990.24)
 
 <!-- auto end -->
 
