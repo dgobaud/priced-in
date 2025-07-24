@@ -44,7 +44,7 @@ const webSearch = async (query: string): Promise<string> => {
 
 const getStockPrice = async (ticker: string): Promise<number> => {
   const response = await client.responses.parse({
-    model: process.env.MODEL,
+    model: "gpt-4.1-mini",
     input: `What is the current price of the stock ticker $${ticker}? Please use web search to get the latest price and then answer in short.`,
     tools: [{ type: "web_search_preview" }],
     text: { format: zodTextFormat(z.object({ price: z.number() }), "price") },
