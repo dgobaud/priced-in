@@ -2,10 +2,10 @@ name: Trading agent
 
 on:
   schedule:
-    - cron: "0 14 * * 1-5"  # 9am EST (14:00 UTC)
-    - cron: "0 16 * * 1-5"  # 11am EST (16:00 UTC)
-    - cron: "0 18 * * 1-5"  # 1pm EST (18:00 UTC)
-    - cron: "0 20 * * 1-5"  # 3pm EST (20:00 UTC)
+    - cron: "0 13 * * 1-5"  # 9am EST (13:00 UTC)
+    - cron: "0 15 * * 1-5"  # 11am EST (15:00 UTC)
+    - cron: "0 17 * * 1-5"  # 1pm EST (17:00 UTC)
+    - cron: "0 19 * * 1-5"  # 3pm EST (19:00 UTC)
   workflow_dispatch:
 
 permissions:
