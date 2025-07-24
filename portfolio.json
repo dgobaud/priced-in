@@ -1,25 +1,7 @@
 {
   "cash": 313.51,
   "holdings": {
-    "GOOGL": 2,
-    "TSLA": 1
   },
   "history": [
-    {
-      "date": "2025-07-24T17:04:00.922Z",
-      "type": "buy",
-      "ticker": "GOOGL",
-      "shares": 2,
-      "price": 192,
-      "total": 384
-    },
-    {
-      "date": "2025-07-24T17:04:02.687Z",
-      "type": "buy",
-      "ticker": "TSLA",
-      "shares": 1,
-      "price": 302.49,
-      "total": 302.49
-    }
   ]
 }
