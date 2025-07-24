@@ -1,7 +1,34 @@
 {
-  "cash": 10000.00,
+  "cash": 1223.19,
   "holdings": {
+    "NOW": 3,
+    "TMO": 6,
+    "NVDA": 17
   },
   "history": [
+    {
+      "date": "2025-07-24T19:01:38.555Z",
+      "type": "buy",
+      "ticker": "NOW",
+      "shares": 3,
+      "price": 989.2,
+      "total": 2967.6000000000004
+    },
+    {
+      "date": "2025-07-24T19:01:45.320Z",
+      "type": "buy",
+      "ticker": "TMO",
+      "shares": 6,
+      "price": 477.03,
+      "total": 2862.18
+    },
+    {
+      "date": "2025-07-24T19:01:52.307Z",
+      "type": "buy",
+      "ticker": "NVDA",
+      "shares": 17,
+      "price": 173.355,
+      "total": 2947.035
+    }
   ]
 }

@@ -4,18 +4,22 @@ An autonomous AI-powered stock trading agent that executes trades on GitHub Acti
 
 <!-- auto start -->
 
-## 💰 Portfolio value: $10,000.00** (0.00% CAGR)
+## 💰 Portfolio value: $9,999.99** (N/A% CAGR)
 
 ### 📊 Holdings
 
 | Asset | Shares | Value |
 |-------|--------|-------|
-| Cash | - | $10000.00 |
-
+| Cash | - | $1223.19 |
+| NOW | 3 | $2967.33 |
+| TMO | 6 | $2862.18 |
+| NVDA | 17 | $2947.29 |
 
 ### 📈 Recent trades
 
-- No trades yet
+- **July 24, 2025 at 7:01:52 PM**: BUY 17 NVDA @ $173.355/share ($2947.03)
+- **July 24, 2025 at 7:01:45 PM**: BUY 6 TMO @ $477.03/share ($2862.18)
+- **July 24, 2025 at 7:01:38 PM**: BUY 3 NOW @ $989.2/share ($2967.60)
 
 <!-- auto end -->
 
