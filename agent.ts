@@ -6,6 +6,8 @@ import { zodTextFormat } from "openai/helpers/zod";
 import invariant from "tiny-invariant";
 import { z } from "zod";
 
+const INITIAL_CASH = 10000
+
 invariant(process.env.OPENAI_API_KEY, "OPENAI_API_KEY is not set");
 invariant(process.env.MODEL, "MODEL is not set");
 const client = new OpenAI();
@@ -94,9 +96,9 @@ const getNetWorthTool = tool({
     return `Your current net worth is $${netWorth}
 - Cash: $${portfolio.cash}
 - Holdings value: $${(netWorth - portfolio.cash).toFixed(2)}
-- Annualized return: ${annualizedReturn}% (started with $1,000)
-- ${netWorth >= 1000 ? "📈 Up" : "📉 Down"} $${Math.abs(
-      netWorth - 1000
+- Annualized return: ${annualizedReturn}% (started with $${INITIAL_CASH})
+- ${netWorth >= INITIAL_CASH ? "📈 Up" : "📉 Down"} $${Math.abs(
+      netWorth - INITIAL_CASH
     ).toFixed(2)} from initial investment`;
   },
 });
@@ -222,7 +224,7 @@ const calculateNetWorth = async (): Promise<number> => {
 };
 
 const calculateCAGR = (days: number, currentValue: number): number => {
-  const startValue = 1000;
+  const startValue = INITIAL_CASH;
   const years = days / 365;
   const cagr = Math.pow(currentValue / startValue, 1 / years) - 1;
   return cagr;
@@ -401,7 +403,7 @@ const result = await run(
     role: "user",
     content: `It's ${new Date().toLocaleString(
       "en-US"
-    )}. Time for your trading analysis! Review your portfolio, scan the markets for opportunities, and make strategic trades to grow your initial $1,000 investment. Good luck! 📈`,
+    )}. Time for your trading analysis! Review your portfolio, scan the markets for opportunities, and make strategic trades to grow your initial $${INITIAL_CASH} investment. Good luck! 📈`,
   }),
   { maxTurns: 100 }
 );
