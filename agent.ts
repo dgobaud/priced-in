@@ -392,6 +392,7 @@ const agent = new Agent({
 });
 
 log("Starting agent");
+log("MODEL = " + process.env.MODEL);
 
 const thread = await loadThread();
 const result = await run(
