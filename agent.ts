@@ -405,7 +405,8 @@ const result = await run(
   thread.concat({
     role: "user",
     content: `It's ${new Date().toLocaleString(
-      "en-US"
+      "en-US",
+      { timeZone: "America/New_York" }
     )}. Time for your trading analysis! Review your portfolio, scan the markets for opportunities, and make strategic trades to grow your initial $${INITIAL_CASH} investment. Good luck! 📈`,
   }),
   { maxTurns: 100 }
