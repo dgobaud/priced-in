@@ -1,9 +1,10 @@
 {
-  "cash": 1223.19,
+  "cash": 896.55,
   "holdings": {
     "NOW": 3,
     "TMO": 6,
-    "NVDA": 17
+    "NVDA": 17,
+    "ALNY": 1
   },
   "history": [
     {
@@ -29,6 +30,14 @@
       "shares": 17,
       "price": 173.355,
       "total": 2947.035
+    },
+    {
+      "date": "2025-07-25T15:24:11.409Z",
+      "type": "buy",
+      "ticker": "ALNY",
+      "shares": 1,
+      "price": 326.64,
+      "total": 326.64
     }
   ]
 }
