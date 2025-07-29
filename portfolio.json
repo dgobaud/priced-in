@@ -1,11 +1,11 @@
 {
-  "cash": 205.83,
+  "cash": 565.21,
   "holdings": {
     "NOW": 3,
     "TMO": 6,
     "NVDA": 17,
     "ALNY": 1,
-    "AMD": 4
+    "AMD": 2
   },
   "history": [
     {
@@ -47,6 +47,14 @@
       "shares": 4,
       "price": 172.68,
       "total": 690.72
+    },
+    {
+      "date": "2025-07-29T15:16:31.952Z",
+      "type": "sell",
+      "ticker": "AMD",
+      "shares": 2,
+      "price": 179.69,
+      "total": 359.38
     }
   ]
 }
