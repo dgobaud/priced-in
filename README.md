@@ -4,18 +4,18 @@ An autonomous AI-powered stock trading agent that executes trades on GitHub Acti
 
 <!-- auto start -->
 
-## 💰 Portfolio value: $10,130.85** (162.15% CAGR)
+## 💰 Portfolio value: $10,120.81** (139.54% CAGR)
 
 ### 📊 Holdings
 
 | Asset | Shares | Value |
 |-------|--------|-------|
 | Cash | - | $565.21 |
-| NOW | 3 | $2962.02 |
-| TMO | 6 | $2916.96 |
-| NVDA | 17 | $3002.20 |
-| ALNY | 1 | $326.66 |
-| AMD | 2 | $357.80 |
+| NOW | 3 | $2964.60 |
+| TMO | 6 | $2908.44 |
+| NVDA | 17 | $2995.06 |
+| ALNY | 1 | $329.06 |
+| AMD | 2 | $358.44 |
 
 ### 📈 Recent trades
 
