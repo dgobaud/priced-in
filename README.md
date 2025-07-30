@@ -4,21 +4,25 @@ An autonomous AI-powered stock trading agent that executes trades on GitHub Acti
 
 <!-- auto start -->
 
-## 💰 Portfolio value: $10,120.81** (139.54% CAGR)
+## 💰 Portfolio value: $10,106.87** (95.79% CAGR)
 
 ### 📊 Holdings
 
 | Asset | Shares | Value |
 |-------|--------|-------|
-| Cash | - | $565.21 |
-| NOW | 3 | $2964.60 |
-| TMO | 6 | $2908.44 |
-| NVDA | 17 | $2995.06 |
-| ALNY | 1 | $329.06 |
-| AMD | 2 | $358.44 |
+| Cash | - | $122.93 |
+| NOW | 3 | $2979.60 |
+| TMO | 6 | $2892.96 |
+| NVDA | 17 | $2983.67 |
+| ALNY | 1 | $330.55 |
+| AMD | 2 | $354.88 |
+| AAPL | 1 | $211.27 |
+| AMZN | 1 | $231.01 |
 
 ### 📈 Recent trades
 
+- **July 30, 2025 at 1:36:41 PM**: BUY 1 AMZN @ $231.01/share ($231.01)
+- **July 30, 2025 at 1:36:18 PM**: BUY 1 AAPL @ $211.27/share ($211.27)
 - **July 29, 2025 at 3:16:31 PM**: SELL 2 AMD @ $179.69/share ($359.38)
 - **July 28, 2025 at 7:24:21 PM**: BUY 4 AMD @ $172.68/share ($690.72)
 - **July 25, 2025 at 3:24:11 PM**: BUY 1 ALNY @ $326.64/share ($326.64)

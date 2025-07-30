@@ -1,11 +1,13 @@
 {
-  "cash": 565.21,
+  "cash": 122.93,
   "holdings": {
     "NOW": 3,
     "TMO": 6,
     "NVDA": 17,
     "ALNY": 1,
-    "AMD": 2
+    "AMD": 2,
+    "AAPL": 1,
+    "AMZN": 1
   },
   "history": [
     {
@@ -55,6 +57,22 @@
       "shares": 2,
       "price": 179.69,
       "total": 359.38
+    },
+    {
+      "date": "2025-07-30T13:36:18.348Z",
+      "type": "buy",
+      "ticker": "AAPL",
+      "shares": 1,
+      "price": 211.27,
+      "total": 211.27
+    },
+    {
+      "date": "2025-07-30T13:36:41.238Z",
+      "type": "buy",
+      "ticker": "AMZN",
+      "shares": 1,
+      "price": 231.01,
+      "total": 231.01
     }
   ]
 }
