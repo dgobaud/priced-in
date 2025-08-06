@@ -1,13 +1,14 @@
 {
-  "cash": 122.93,
+  "cash": 995.95,
   "holdings": {
-    "NOW": 3,
+    "NOW": 0,
     "TMO": 6,
     "NVDA": 17,
-    "ALNY": 1,
+    "ALNY": 0,
     "AMD": 2,
     "AAPL": 1,
-    "AMZN": 1
+    "AMZN": 0,
+    "PFE": 100
   },
   "history": [
     {
@@ -73,6 +74,38 @@
       "shares": 1,
       "price": 231.01,
       "total": 231.01
+    },
+    {
+      "date": "2025-08-06T13:38:17.446Z",
+      "type": "sell",
+      "ticker": "ALNY",
+      "shares": 1,
+      "price": 418.91,
+      "total": 418.91
+    },
+    {
+      "date": "2025-08-06T13:38:32.230Z",
+      "type": "sell",
+      "ticker": "AMZN",
+      "shares": 1,
+      "price": 213.75,
+      "total": 213.75
+    },
+    {
+      "date": "2025-08-06T13:38:44.141Z",
+      "type": "sell",
+      "ticker": "NOW",
+      "shares": 3,
+      "price": 905.12,
+      "total": 2715.36
+    },
+    {
+      "date": "2025-08-06T13:41:07.932Z",
+      "type": "buy",
+      "ticker": "PFE",
+      "shares": 100,
+      "price": 24.75,
+      "total": 2475
     }
   ]
 }

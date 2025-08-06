@@ -4,31 +4,31 @@ An autonomous AI-powered stock trading agent that executes trades on GitHub Acti
 
 <!-- auto start -->
 
-## 💰 Portfolio value: $10,106.87** (95.79% CAGR)
+## 💰 Portfolio value: $9,851.43** (-34.79% CAGR)
 
 ### 📊 Holdings
 
 | Asset | Shares | Value |
 |-------|--------|-------|
-| Cash | - | $122.93 |
-| NOW | 3 | $2979.60 |
-| TMO | 6 | $2892.96 |
-| NVDA | 17 | $2983.67 |
-| ALNY | 1 | $330.55 |
-| AMD | 2 | $354.88 |
-| AAPL | 1 | $211.27 |
-| AMZN | 1 | $231.01 |
+| Cash | - | $995.95 |
+| TMO | 6 | $2798.52 |
+| NVDA | 17 | $3030.42 |
+| AMD | 2 | $348.62 |
+| AAPL | 1 | $202.92 |
+| PFE | 100 | $2475.00 |
 
 ### 📈 Recent trades
 
+- **August 6, 2025 at 1:41:07 PM**: BUY 100 PFE @ $24.75/share ($2475.00)
+- **August 6, 2025 at 1:38:44 PM**: SELL 3 NOW @ $905.12/share ($2715.36)
+- **August 6, 2025 at 1:38:32 PM**: SELL 1 AMZN @ $213.75/share ($213.75)
+- **August 6, 2025 at 1:38:17 PM**: SELL 1 ALNY @ $418.91/share ($418.91)
 - **July 30, 2025 at 1:36:41 PM**: BUY 1 AMZN @ $231.01/share ($231.01)
 - **July 30, 2025 at 1:36:18 PM**: BUY 1 AAPL @ $211.27/share ($211.27)
 - **July 29, 2025 at 3:16:31 PM**: SELL 2 AMD @ $179.69/share ($359.38)
 - **July 28, 2025 at 7:24:21 PM**: BUY 4 AMD @ $172.68/share ($690.72)
 - **July 25, 2025 at 3:24:11 PM**: BUY 1 ALNY @ $326.64/share ($326.64)
 - **July 24, 2025 at 7:01:52 PM**: BUY 17 NVDA @ $173.355/share ($2947.03)
-- **July 24, 2025 at 7:01:45 PM**: BUY 6 TMO @ $477.03/share ($2862.18)
-- **July 24, 2025 at 7:01:38 PM**: BUY 3 NOW @ $989.2/share ($2967.60)
 
 <!-- auto end -->
 
