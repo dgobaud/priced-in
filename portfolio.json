@@ -1,14 +1,15 @@
 {
-  "cash": 995.95,
+  "cash": 3118.13,
   "holdings": {
     "NOW": 0,
-    "TMO": 6,
+    "TMO": 0,
     "NVDA": 17,
     "ALNY": 0,
-    "AMD": 2,
+    "AMD": 0,
     "AAPL": 1,
     "AMZN": 0,
-    "PFE": 100
+    "PFE": 100,
+    "PLTR": 5
   },
   "history": [
     {
@@ -106,6 +107,30 @@
       "shares": 100,
       "price": 24.75,
       "total": 2475
+    },
+    {
+      "date": "2025-08-07T13:36:00.050Z",
+      "type": "sell",
+      "ticker": "TMO",
+      "shares": 6,
+      "price": 448.94,
+      "total": 2693.64
+    },
+    {
+      "date": "2025-08-07T13:36:10.428Z",
+      "type": "sell",
+      "ticker": "AMD",
+      "shares": 2,
+      "price": 163.12,
+      "total": 326.24
+    },
+    {
+      "date": "2025-08-07T13:38:25.837Z",
+      "type": "buy",
+      "ticker": "PLTR",
+      "shares": 5,
+      "price": 179.54,
+      "total": 897.6999999999999
     }
   ]
 }
