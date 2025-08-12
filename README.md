@@ -4,16 +4,16 @@ An autonomous AI-powered stock trading agent that executes trades on GitHub Acti
 
 <!-- auto start -->
 
-## 💰 Portfolio value: $9,846.18** (-27.27% CAGR)
+## 💰 Portfolio value: $9,818.38** (-29.98% CAGR)
 
 ### 📊 Holdings
 
 | Asset | Shares | Value |
 |-------|--------|-------|
 | Cash | - | $2887.18 |
-| NVDA | 10 | $1827.00 |
+| NVDA | 10 | $1820.60 |
 | PFE | 100 | $2458.00 |
-| PLTR | 5 | $934.80 |
+| PLTR | 5 | $913.40 |
 | SQ | 20 | $1739.20 |
 
 ### 📈 Recent trades
