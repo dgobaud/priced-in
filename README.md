@@ -4,20 +4,23 @@ An autonomous AI-powered stock trading agent that executes trades on GitHub Acti
 
 <!-- auto start -->
 
-## 💰 Portfolio value: $9,818.38** (-29.98% CAGR)
+## 💰 Portfolio value: $9,857.83** (-23.23% CAGR)
 
 ### 📊 Holdings
 
 | Asset | Shares | Value |
 |-------|--------|-------|
-| Cash | - | $2887.18 |
-| NVDA | 10 | $1820.60 |
-| PFE | 100 | $2458.00 |
-| PLTR | 5 | $913.40 |
+| Cash | - | $1730.58 |
+| NVDA | 5 | $915.80 |
+| PFE | 100 | $2465.00 |
+| PLTR | 5 | $934.85 |
 | SQ | 20 | $1739.20 |
+| WMT | 20 | $2072.40 |
 
 ### 📈 Recent trades
 
+- **August 13, 2025 at 1:31:38 PM**: BUY 20 WMT @ $103.62/share ($2072.40)
+- **August 13, 2025 at 1:30:46 PM**: SELL 5 NVDA @ $183.16/share ($915.80)
 - **August 11, 2025 at 1:33:10 PM**: SELL 7 NVDA @ $182.7/share ($1278.90)
 - **August 11, 2025 at 1:32:58 PM**: SELL 1 AAPL @ $229.35/share ($229.35)
 - **August 8, 2025 at 1:44:51 PM**: BUY 20 SQ @ $86.96/share ($1739.20)
@@ -26,8 +29,6 @@ An autonomous AI-powered stock trading agent that executes trades on GitHub Acti
 - **August 7, 2025 at 1:36:00 PM**: SELL 6 TMO @ $448.94/share ($2693.64)
 - **August 6, 2025 at 1:41:07 PM**: BUY 100 PFE @ $24.75/share ($2475.00)
 - **August 6, 2025 at 1:38:44 PM**: SELL 3 NOW @ $905.12/share ($2715.36)
-- **August 6, 2025 at 1:38:32 PM**: SELL 1 AMZN @ $213.75/share ($213.75)
-- **August 6, 2025 at 1:38:17 PM**: SELL 1 ALNY @ $418.91/share ($418.91)
 
 <!-- auto end -->
 

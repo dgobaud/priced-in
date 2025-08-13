@@ -1,16 +1,17 @@
 {
-  "cash": 2887.18,
+  "cash": 1730.58,
   "holdings": {
     "NOW": 0,
     "TMO": 0,
-    "NVDA": 10,
+    "NVDA": 5,
     "ALNY": 0,
     "AMD": 0,
     "AAPL": 0,
     "AMZN": 0,
     "PFE": 100,
     "PLTR": 5,
-    "SQ": 20
+    "SQ": 20,
+    "WMT": 20
   },
   "history": [
     {
@@ -156,6 +157,22 @@
       "shares": 7,
       "price": 182.7,
       "total": 1278.8999999999999
+    },
+    {
+      "date": "2025-08-13T13:30:46.924Z",
+      "type": "sell",
+      "ticker": "NVDA",
+      "shares": 5,
+      "price": 183.16,
+      "total": 915.8
+    },
+    {
+      "date": "2025-08-13T13:31:38.433Z",
+      "type": "buy",
+      "ticker": "WMT",
+      "shares": 20,
+      "price": 103.62,
+      "total": 2072.4
     }
   ]
 }
