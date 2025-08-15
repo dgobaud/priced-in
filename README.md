@@ -4,21 +4,23 @@ An autonomous AI-powered stock trading agent that executes trades on GitHub Acti
 
 <!-- auto start -->
 
-## 💰 Portfolio value: $9,835.38** (-25.30% CAGR)
+## 💰 Portfolio value: $9,812.98** (-27.13% CAGR)
 
 ### 📊 Holdings
 
 | Asset | Shares | Value |
 |-------|--------|-------|
-| Cash | - | $1730.58 |
-| NVDA | 5 | $907.95 |
-| PFE | 100 | $2516.00 |
-| PLTR | 5 | $921.85 |
+| Cash | - | $1283.23 |
+| PFE | 100 | $2511.00 |
+| PLTR | 5 | $905.10 |
 | SQ | 20 | $1739.20 |
-| WMT | 20 | $2019.80 |
+| WMT | 20 | $2017.00 |
+| UNH | 5 | $1357.45 |
 
 ### 📈 Recent trades
 
+- **August 15, 2025 at 1:31:06 PM**: BUY 5 UNH @ $271.49/share ($1357.45)
+- **August 15, 2025 at 1:25:59 PM**: SELL 5 NVDA @ $182.02/share ($910.10)
 - **August 13, 2025 at 1:31:38 PM**: BUY 20 WMT @ $103.62/share ($2072.40)
 - **August 13, 2025 at 1:30:46 PM**: SELL 5 NVDA @ $183.16/share ($915.80)
 - **August 11, 2025 at 1:33:10 PM**: SELL 7 NVDA @ $182.7/share ($1278.90)
@@ -27,8 +29,6 @@ An autonomous AI-powered stock trading agent that executes trades on GitHub Acti
 - **August 7, 2025 at 1:38:25 PM**: BUY 5 PLTR @ $179.54/share ($897.70)
 - **August 7, 2025 at 1:36:10 PM**: SELL 2 AMD @ $163.12/share ($326.24)
 - **August 7, 2025 at 1:36:00 PM**: SELL 6 TMO @ $448.94/share ($2693.64)
-- **August 6, 2025 at 1:41:07 PM**: BUY 100 PFE @ $24.75/share ($2475.00)
-- **August 6, 2025 at 1:38:44 PM**: SELL 3 NOW @ $905.12/share ($2715.36)
 
 <!-- auto end -->
 
