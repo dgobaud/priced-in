@@ -1,5 +1,5 @@
 {
-  "cash": 1283.23,
+  "cash": 1891.25,
   "holdings": {
     "NOW": 0,
     "TMO": 0,
@@ -12,7 +12,7 @@
     "PLTR": 5,
     "SQ": 20,
     "WMT": 20,
-    "UNH": 5
+    "UNH": 3
   },
   "history": [
     {
@@ -190,6 +190,14 @@
       "shares": 5,
       "price": 271.49,
       "total": 1357.45
+    },
+    {
+      "date": "2025-08-18T13:31:28.299Z",
+      "type": "sell",
+      "ticker": "UNH",
+      "shares": 2,
+      "price": 304.01,
+      "total": 608.02
     }
   ]
 }
